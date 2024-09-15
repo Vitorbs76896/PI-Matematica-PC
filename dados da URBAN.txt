@@ -1,0 +1,27 @@
+A URBAN - Mobilidade Urbana de Anápolis tem 96 rotas de ônibus em Anápolis e 1235 paradas de ônibus.
+
+linha 004 tem 62 paradas e a duração da viagem é de aproximadamente 59 minutos.
+A linha 008 tem 37 paradas e a duração da viagem é de aproximadamente 36 minutos.
+A linha 032 tem 32 paradas e a duração da viagem é de aproximadamente 28 minutos.
+A linha 045 tem 92 paradas e a duração da viagem é de aproximadamente 92 minutos.
+A linha 098 tem 37 paradas e a duração da viagem é de aproximadamente 35 minutos.
+A linha 113 tem 95 paradas e a duração da viagem é de aproximadamente 99 minutos
+A linha 112 tem 109 paradas e a duração da viagem é de aproximadamente 124 minutos.
+A linha 127 tem 73 paradas e a duração da viagem é de aproximadamente 72 minutos.
+A linha 179 tem 63 paradas e a duração da viagem é de aproximadamente 68 minutos.
+A linha 173 tem 60 paradas e a duração da viagem é de aproximadamente 85 minutos
+A linha 076 tem 49 paradas e a duração da viagem é de aproximadamente 67 minutos
+A linha 096 tem 74 paradas e a duração da viagem é de aproximadamente 53 minutos.
+A linha 108 tem 54 paradas e a duração da viagem é de aproximadamente 50 minutos.
+A linha 122 tem 61 paradas e a duração da viagem é de aproximadamente 47 minutos.
+A linha 140 tem 53 paradas e a duração da viagem é de aproximadamente 46 minutos.
+A linha 152 tem 36 paradas e a duração da viagem é de aproximadamente 35 minutos.
+A linha 168 tem 22 paradas e a duração da viagem é de aproximadamente 15 minutos.
+A linha 173 tem 60 paradas e a duração da viagem é de aproximadamente 85 minutos.
+A linha 191 tem 29 paradas e a duração da viagem é de aproximadamente 31 minutos.
+A linha 175 tem 51 paradas e a duração da viagem é de aproximadamente 58 minutos.
+A linha 165 tem 38 paradas e a duração da viagem é de aproximadamente 46 minutos.
+A linha 132 tem 55 paradas e a duração da viagem é de aproximadamente 55 minutos.
+A linha 118 tem 33 paradas e a duração da viagem é de aproximadamente 41 minutos.
+A linha 092 tem 38 paradas e a duração da viagem é de aproximadamente 28 minutos.
+A linha 037 tem 18 paradas e a duração da viagem é de aproximadamente 11 minutos.
